@@ -76,7 +76,7 @@ sections:
       type: TitleBlock
       text: Ainda estamos cuidando de tudo para ficar bem legal.
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Mas fique a vontade de nos contactar para trocarmos uma ideia
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
