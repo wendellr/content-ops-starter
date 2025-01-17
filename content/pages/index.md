@@ -20,7 +20,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: LIOT
+      label: Educação para o futuro
       color: text-primary
       type: Badge
     elementId: ''
