@@ -54,7 +54,7 @@ sections:
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/LITBranco.png
+      - url: /images/LitBrancoPeq.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
