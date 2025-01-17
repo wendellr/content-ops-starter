@@ -19,7 +19,7 @@
         },
         {
             "altText": "Email link",
-            "url": "mailto;//contato@lioteducation.com.br",
+            "url": "mailto://contato@lioteducation.com.br",
             "icon": "mail",
             "type": "Social"
         }
