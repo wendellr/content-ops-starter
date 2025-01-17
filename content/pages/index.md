@@ -43,7 +43,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/ifcelogopbpeq.png
         altText: Telus logo
         type: ImageBlock
       - altText: Contentful logo
