@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: LioT
-      color: text-dark
-      type: TitleBlock
     subtitle: Robótica e Internet das Coisas
     text: >+
       LioT é uma empresa que promove o aprendizado por meio da robótica e
