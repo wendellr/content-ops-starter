@@ -35,6 +35,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - subtitle: Instituições que confiam na gente
     images:
       - url: /images/nepenlogo-pb-peq-2.png
