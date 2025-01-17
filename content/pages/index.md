@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: LioT
-      color: text-dark
-      type: TitleBlock
     subtitle: Robótica e Internet das Coisas
     text: >+
       LioT é uma empresa que promove o aprendizado por meio da robótica e
@@ -39,6 +35,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    title:
+      type: TitleBlock
+      text: LioT
+      color: text-dark
   - subtitle: Instituições que confiam na gente
     images:
       - url: /images/nepenlogo-pb-peq-2.png
