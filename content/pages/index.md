@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Educando pro futuro
+      text: LioT
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
