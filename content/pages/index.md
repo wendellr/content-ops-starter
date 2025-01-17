@@ -47,8 +47,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
