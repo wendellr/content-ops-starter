@@ -4,15 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: Robótica e Internet das Coisas
-    text: >+
-      LioT é uma empresa que promove o aprendizado por meio da robótica e
+    text: >
+      LioT é uma *startup* que promove o aprendizado por meio da robótica e
       Internet das Coisas, utilizando uma metodologia inovadora, lúdica e
       inclusiva para transformar o ensino em uma experiência acessível e
       inspiradora.
-
-
-
-
     actions: []
     media:
       url: /images/Design sem nome (17).png
