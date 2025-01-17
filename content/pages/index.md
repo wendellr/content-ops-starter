@@ -37,7 +37,7 @@ sections:
           - pr-16
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: LioT
       color: text-dark
   - subtitle: Instituições que confiam na gente
     images:
