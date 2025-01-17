@@ -36,10 +36,10 @@ sections:
           - pr-16
   - subtitle: Instituições que confiam na gente
     images:
-      - altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
+        type: ImageBlock
+      - altText: Empathy logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
