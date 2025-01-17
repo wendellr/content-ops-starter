@@ -34,7 +34,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Instituições que confiam na gente
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
