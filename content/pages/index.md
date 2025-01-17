@@ -15,8 +15,7 @@ sections:
 
     actions: []
     media:
-      url: >-
-        /images/a-robot-educating-children-using-robot-c_Sf0-pr84RKeO7eMAt8hycQ_tlHV4Ow8SM-BGVGow8-l9w.png
+      url: /images/Design sem nome (17).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
