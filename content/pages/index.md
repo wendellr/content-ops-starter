@@ -36,7 +36,7 @@ sections:
           - pr-16
   - subtitle: Instituições que confiam na gente
     images:
-      - url: /images/wellster-logo.svg
+      - url: /images/nepenlogo-pb-peq.png
         altText: Wellster logo
         type: ImageBlock
       - altText: Empathy logo
