@@ -25,7 +25,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/3.png
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
