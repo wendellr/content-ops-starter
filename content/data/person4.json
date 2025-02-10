@@ -1,9 +1,8 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
-    "role": "Co-founder & CEO",
+    "name": "Rejane Sá",
+    "role": "Pesquisadora/Orientadora",
     "image": {
-        "url": "/images/avatar4.svg",
         "altText": "Nina Mercado",
         "styles": {
             "self": {
@@ -33,5 +32,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }

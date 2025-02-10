@@ -2,6 +2,49 @@
 title: Home
 slug: /
 sections:
+  - type: ImageGallerySection
+    subtitle: Nossa Metodologia
+    images:
+      - type: ImageBlock
+        url: /images/livro1liot.png
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/livro2liot.png
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/livro3liot.png
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/3.png
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     subtitle: Robótica e Internet das Coisas
     text: >
@@ -61,6 +104,31 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Nosso time
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
