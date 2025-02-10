@@ -18,7 +18,6 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/2.png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
