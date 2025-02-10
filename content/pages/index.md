@@ -30,7 +30,7 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/Design sem nome (18).png
         altText: Rangle logo
         elementId: ''
     elementId: ''
