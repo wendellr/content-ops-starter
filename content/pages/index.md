@@ -6,7 +6,7 @@ sections:
     subtitle: Nossa Metodologia
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/livro1liot.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
