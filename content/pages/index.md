@@ -14,7 +14,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/livro3liot.png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
