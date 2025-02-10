@@ -21,10 +21,6 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/2a.png
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/3.png
         altText: Sanity logo
         elementId: ''
